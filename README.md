@@ -1,16 +1,50 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Askie01/askie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Java software engineer based in Poland.
 
-Here are some ideas to get you started:
+I build **secure**, **resilient**, and **scalable backend systems** that stay maintainable for years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌟 **What I Do**
+
+* Design REST APIs that reliably fulfill business needs and support long-term growth
+
+* Build microservices that are stable, secure, and easy to extend
+
+* Write clean, readable, production-ready code
+
+* Automate workflows and improve development processes
+
+---
+
+🛠️ **Tools & Techs**
+
+* **Languages**: Java 25 ☕
+
+* **Frameworks**: Spring Boot, Spring Security, Spring Cloud
+
+* ️✉️ **Messaging**: RabbitMQ, Kafka
+
+* **Databases (SQL + NoSQL)**: MySQL, PostgreSQL, MongoDB
+
+* **DevOps**: Kubernetes, Docker, GitHub Actions
+
+* **Other**: JWT, Keycloak, CI/CD, API Design, AI
+
+* **Tools**: IntelliJ IDEA, Postman, Docker desktop
+
+---
+
+📚 **Currently Learning**
+
+* **AWS Cloud** — ECR, ECS, RDS, IAM, S3, CloudWatch
+(Moving toward fully cloud-native backend engineering.)
+
+---
+
+🎯 **A Bit About Me**
+
+* **KISS** (**K**eep **I**t **S**imple **S**tupid) - favorite principle 🧑‍💻
+* **Guitar rockstar (wanna be)** - used to play a lot when I was younger, now it’s a from-time-to-time creative hobby 🎶
+* **Self-made cook** - occasionally producing meals that should be Michelin-starred 🍳😄
