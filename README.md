@@ -20,11 +20,11 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 🛠️ **Tools & Techs**
 
-* **Languages**: Java 25 ☕
+* **Languages**: Java 25
 
 * **Frameworks**: Spring Boot, Spring Security, Spring Cloud
 
-* ️✉️ **Messaging**: RabbitMQ, Kafka
+* ️**Messaging**: RabbitMQ, Kafka
 
 * **Databases (SQL + NoSQL)**: MySQL, PostgreSQL, MongoDB
 
