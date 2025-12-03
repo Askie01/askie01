@@ -28,7 +28,7 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 * **Databases (SQL + NoSQL)**: MySQL, PostgreSQL, MongoDB
 
-* **DevOps**: Kubernetes, Docker, GitHub Actions
+* **DevOps**: Kubernetes, Docker, Maven, GitHub Actions
 
 * **Other**: JWT, Keycloak, CI/CD, API Design, AI
 
