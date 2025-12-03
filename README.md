@@ -32,7 +32,7 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 * **DevOps**: Kubernetes, Docker, Maven, GitHub Actions
 
-* **Monitoring & Observability**: Grafana, Prometheus, Loki, Tempo, OpenTelemetry, Spring Boot Actuator
+* **Monitoring & Observability**: Grafana, Prometheus, Loki, Tempo, OpenTelemetry, Spring Actuator
 
 * **Other**: JWT, Keycloak, CI/CD, API Design, AI
 
