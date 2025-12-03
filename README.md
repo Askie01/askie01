@@ -22,21 +22,25 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 * **Languages**: Java 25
 
-* **Frameworks**: Spring Boot, Spring Security, Spring Cloud
-  
+* **Frameworks**: Spring Boot, Spring Security, Spring Cloud, Spring AOP
+
+* **JPA**: Spring Data JPA, Hibernate
+
 * **Testing**: JUnit, Mockito, Spring Boot Test
 
-* ️**Messaging**: RabbitMQ, Kafka
+* **Databases (SQL + NoSQL)**: MySQL, PostgreSQL, MongoDB, Flyway
 
-* **Databases (SQL + NoSQL)**: MySQL, PostgreSQL, MongoDB
+* **DevOps**: Kubernetes, Docker, Maven, GitHub Actions, CI/CD pipeplines
 
-* **DevOps**: Kubernetes, Docker, Maven, GitHub Actions
+* **Messaging**: RabbitMQ, Kafka
 
 * **Monitoring & Observability**: Grafana, Prometheus, Loki, Tempo, OpenTelemetry, Spring Actuator
 
-* **Other**: JWT, Keycloak, CI/CD, API Design, AI
+* **Code quality**: SonarQube, Code Coverage
 
 * **Documentation**: Java docs, PlantUML, Swagger
+
+* **Other**: API Design, AI, JWT, Keycloak, Lombok
 
 * **Tools**: IntelliJ IDEA, Postman, Docker desktop
 
