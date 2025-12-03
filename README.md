@@ -40,7 +40,7 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 * **Documentation**: Java docs, PlantUML, Swagger
 
-* **Other**: API Design, AI, JWT, Keycloak, Lombok
+* **Other**: API Design, AI, JWT, Keycloak, Resilience4j, Lombok
 
 * **Tools**: IntelliJ IDEA, Postman, Docker desktop
 
