@@ -23,6 +23,8 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 * **Languages**: Java 25
 
 * **Frameworks**: Spring Boot, Spring Security, Spring Cloud
+  
+* **Testing**: JUnit, Mockito, Spring Boot Test
 
 * ️**Messaging**: RabbitMQ, Kafka
 
