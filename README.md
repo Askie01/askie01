@@ -34,6 +34,8 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 * **Other**: JWT, Keycloak, CI/CD, API Design, AI
 
+* **Documentation**: Java docs, PlantUML, Swagger
+
 * **Tools**: IntelliJ IDEA, Postman, Docker desktop
 
 ---
