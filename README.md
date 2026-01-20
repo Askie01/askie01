@@ -1,55 +1,30 @@
 ## Hey there 👋
 
-I'm a Java software engineer based in Poland.
+I'm a Java developer from Poland.
 
-I build **secure**, **resilient**, and **scalable backend systems** that stay maintainable for years.
+I design **secure**, **resilient**, and **scalable** backend systems.
 
 ---
 
 🌟 **What I Do**
 
-* Design REST APIs that reliably fulfill business needs and support long-term growth
+* Design REST APIs to fulfill business needs.
 
-* Build microservices that are stable, secure, and easy to extend
+* Build microservices that are stable, secure, and easy to extend.
 
-* Write clean, readable, production-ready code
-
-* Automate workflows and improve development processes
+* Write clean & readable code.
 
 ---
 
 🛠️ **Tools & Techs**
 
-* **Languages**: Java 25
+* **Core**: Java, Maven, Spring Boot, Spring Security, SQL, Hibernate, JUnit, Mockito, Docker.
+  
+* **Secondary**: Resilience4J, Kafka, RabbitMQ, ELK Stack, GitHub actions, Kubernetes (K8s)
 
-* **Frameworks**: Spring Boot, Spring Security, Spring Cloud, Spring AOP
-
-* **JPA**: Spring Data JPA, Hibernate
-
-* **Testing**: JUnit, Mockito, Spring Boot Test
-
-* **Databases (SQL + NoSQL)**: MySQL, PostgreSQL, MongoDB, Flyway
-
-* **DevOps**: Kubernetes, Docker, Maven, GitHub Actions, CI/CD pipeplines
-
-* **Messaging**: RabbitMQ, Kafka
-
-* **Monitoring & Observability**: Grafana, Prometheus, Loki, Tempo, OpenTelemetry, Spring Actuator
-
-* **Code quality**: SonarQube, Code Coverage
-
-* **Documentation**: Java docs, PlantUML, Swagger
-
-* **Other**: API Design, AI, JWT, Keycloak, Resilience4j, Lombok
+* **Others**: SwaggerUI, PlantUML, SonarQube
 
 * **Tools**: IntelliJ IDEA, Postman, Docker desktop
-
----
-
-📚 **Currently Learning**
-
-* **AWS Cloud** — ECR, ECS, RDS, IAM, S3, CloudWatch
-(Moving toward fully cloud-native backend engineering.)
 
 ---
 
@@ -57,4 +32,4 @@ I build **secure**, **resilient**, and **scalable backend systems** that stay ma
 
 * **KISS** (**K**eep **I**t **S**imple **S**tupid) - favorite principle 🧑‍💻
 * **Guitar rockstar (wanna be)** - used to play a lot when I was younger, now it’s a from-time-to-time creative hobby 🎶
-* **Self-made cook** - occasionally producing meals that should be Michelin-starred 🍳😄
+* **Self-made cook** - you haven't tried anything like this before 🍳
